@@ -6,7 +6,7 @@ External CSGO cheat that allows you to get free skins (kinda)
 2. Update offsets (use hazedumper)
 3. Choose weapons/weapon skins
 4. Build in `Release | x86`
-5. Enjoy!
+5. Run while game is open & enjoy!
 
 # 🗿 Disclaimer
 I am not responsible for anything that happens when you use this software.
